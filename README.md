@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fabio Ibanez, a second-year student at Stanford University studying Computer Science
-- 👀 I’m interested in Web3 and DeFi
-- 🌱 I’m currently learning Program Development on the Solana Blockchain
+- 🔥 I’m interested in Web3 and DeFi
+- 👾 I’m currently learning Program Development on the Solana Blockchain
 - 💞️ I’m looking to collaborate on Web3 projects
 - 📫 How to reach me fabioi@stanford.edu
 
